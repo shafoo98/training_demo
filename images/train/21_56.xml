@@ -1,0 +1,26 @@
+<annotation>
+	<folder>21</folder>
+	<filename>21_56.jpg</filename>
+	<path>21/21_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1252</xmin>
+			<ymin>1090</ymin>
+			<xmax>2443</xmax>
+			<ymax>2533</ymax>
+		</bndbox>
+	</object>
+</annotation>

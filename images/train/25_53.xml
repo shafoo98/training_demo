@@ -1,0 +1,26 @@
+<annotation>
+	<folder>25</folder>
+	<filename>25_53.jpg</filename>
+	<path>25/25_53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1066</xmin>
+			<ymin>1802</ymin>
+			<xmax>2731</xmax>
+			<ymax>3028</ymax>
+		</bndbox>
+	</object>
+</annotation>
