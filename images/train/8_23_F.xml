@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8</folder>
+	<filename>8_23_F.jpg</filename>
+	<path>8/8_23_F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>956</ymin>
+			<xmax>1488</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+</annotation>
