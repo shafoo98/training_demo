@@ -1,0 +1,26 @@
+<annotation>
+	<folder>32</folder>
+	<filename>32_111.jpg</filename>
+	<path>32/32_111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>32</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>2199</ymin>
+			<xmax>1218</xmax>
+			<ymax>2845</ymax>
+		</bndbox>
+	</object>
+</annotation>

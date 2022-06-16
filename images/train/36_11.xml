@@ -1,0 +1,26 @@
+<annotation>
+	<folder>36</folder>
+	<filename>36_11.jpg</filename>
+	<path>36/36_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>36</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>1279</ymin>
+			<xmax>564</xmax>
+			<ymax>1913</ymax>
+		</bndbox>
+	</object>
+</annotation>

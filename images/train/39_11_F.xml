@@ -1,0 +1,26 @@
+<annotation>
+	<folder>39</folder>
+	<filename>39_11_F.jpg</filename>
+	<path>39/39_11_F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>39</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1888</xmin>
+			<ymin>1787</ymin>
+			<xmax>2556</xmax>
+			<ymax>2362</ymax>
+		</bndbox>
+	</object>
+</annotation>
