@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15</folder>
+	<filename>15_20.jpg</filename>
+	<path>15/15_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>15</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1427</xmin>
+			<ymin>1769</ymin>
+			<xmax>2086</xmax>
+			<ymax>2674</ymax>
+		</bndbox>
+	</object>
+</annotation>

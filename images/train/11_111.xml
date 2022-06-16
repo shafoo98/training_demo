@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>11_111.jpg</filename>
+	<path>11/11_111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>11</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1557</xmin>
+			<ymin>1919</ymin>
+			<xmax>1786</xmax>
+			<ymax>2297</ymax>
+		</bndbox>
+	</object>
+</annotation>

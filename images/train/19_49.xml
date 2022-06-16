@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19</folder>
+	<filename>19_49.jpg</filename>
+	<path>19/19_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>19</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1821</xmin>
+			<ymin>2084</ymin>
+			<xmax>2508</xmax>
+			<ymax>3476</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>18</folder>
+	<filename>18_43_F.jpg</filename>
+	<path>18/18_43_F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1697</width>
+		<height>3951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>18</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>1893</ymin>
+			<xmax>1222</xmax>
+			<ymax>2580</ymax>
+		</bndbox>
+	</object>
+</annotation>
