@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29</folder>
+	<filename>29_158.jpg</filename>
+	<path>29/29_158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>557</xmin>
+			<ymin>2478</ymin>
+			<xmax>894</xmax>
+			<ymax>2753</ymax>
+		</bndbox>
+	</object>
+</annotation>

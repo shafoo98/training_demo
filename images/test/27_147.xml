@@ -1,0 +1,26 @@
+<annotation>
+	<folder>27</folder>
+	<filename>27_147.jpg</filename>
+	<path>27/27_147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>27</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1501</xmin>
+			<ymin>1759</ymin>
+			<xmax>2235</xmax>
+			<ymax>3246</ymax>
+		</bndbox>
+	</object>
+</annotation>

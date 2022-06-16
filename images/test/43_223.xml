@@ -1,0 +1,26 @@
+<annotation>
+	<folder>43</folder>
+	<filename>43_223.jpg</filename>
+	<path>43/43_223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>43</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>2127</ymin>
+			<xmax>1085</xmax>
+			<ymax>2673</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>42</folder>
+	<filename>42_144.jpg</filename>
+	<path>42/42_144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>42</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>2271</ymin>
+			<xmax>1201</xmax>
+			<ymax>3129</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>24</folder>
+	<filename>24_236_F.jpg</filename>
+	<path>24/24_236_F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>24</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>803</ymin>
+			<xmax>606</xmax>
+			<ymax>1409</ymax>
+		</bndbox>
+	</object>
+</annotation>

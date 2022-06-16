@@ -1,0 +1,26 @@
+<annotation>
+	<folder>34</folder>
+	<filename>34_135_F.jpg</filename>
+	<path>34/34_135_F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>34</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>772</xmin>
+			<ymin>501</ymin>
+			<xmax>1661</xmax>
+			<ymax>2565</ymax>
+		</bndbox>
+	</object>
+</annotation>
