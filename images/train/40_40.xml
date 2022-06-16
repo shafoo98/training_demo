@@ -1,0 +1,26 @@
+<annotation>
+	<folder>40</folder>
+	<filename>40_40.jpg</filename>
+	<path>40/40_40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>1795</ymin>
+			<xmax>910</xmax>
+			<ymax>2011</ymax>
+		</bndbox>
+	</object>
+</annotation>
