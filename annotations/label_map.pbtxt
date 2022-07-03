@@ -1,9 +1,229 @@
 item {
     id: 1
-    name: 'car'
+    name: '0'
 }
 
 item {
     id: 2
-    name: 'bike'
+    name: '1'
+}
+
+item {
+    id: 3
+    name: '2'
+}
+
+item {
+    id: 4
+    name: '3'
+}
+
+item {
+    id: 5
+    name: '4'
+}
+
+item {
+    id: 6
+    name: '5'
+}
+
+item {
+    id: 7
+    name: '6'
+}
+
+item {
+    id: 8
+    name: '7'
+}
+
+item {
+    id: 9
+    name: '8'
+}
+
+item {
+    id: 10
+    name: '9'
+}
+
+item {
+    id: 11
+    name: 'a'
+}
+
+item {
+    id: 12
+    name: 'aa'
+}
+
+item {
+    id: 13
+    name: 'i'
+}
+
+item {
+    id: 14
+    name: 'u'
+}
+
+item {
+    id: 15
+    name: 'e'
+}
+
+item {
+    id: 16
+    name: 'o'
+}
+
+item {
+    id: 17
+    name: 'k'
+}
+
+item {
+    id: 18
+    name: 'kh'
+}
+
+item {
+    id: 19
+    name: 'g'
+}
+
+item {
+    id: 20
+    name: 'gh'
+}
+
+item {
+    id: 21
+    name: 'ch'
+}
+
+item {
+    id: 22
+    name: 'chh'
+}
+
+item {
+    id: 23
+    name: 'j'
+}
+
+item {
+    id: 24
+    name: 'jh'
+}
+
+item {
+    id: 25
+    name: 'ţ'
+}
+
+item {
+    id: 26
+    name: 'ţh'
+}
+
+item {
+    id: 27
+    name: 'đ'
+}
+
+item {
+    id: 28
+    name: 'đh'
+}
+
+item {
+    id: 29
+    name: 't'
+}
+
+item {
+    id: 30
+    name: 'th'
+}
+
+item {
+    id: 31
+    name: 'd'
+}
+
+item {
+    id: 32
+    name: 'dh'
+}
+
+item {
+    id: 33
+    name: 'n'
+}
+
+item {
+    id: 34
+    name: 'p'
+}
+
+item {
+    id: 35
+    name: 'ph'
+}
+
+item {
+    id: 36
+    name: 'b'
+}
+
+item {
+    id: 37
+    name: 'bh'
+}
+
+item {
+    id: 38
+    name: 'm'
+}
+
+item {
+    id: 39
+    name: 'jaw'
+}
+
+item {
+    id: 40
+    name: 'r'
+}
+
+item {
+    id: 41
+    name: 'l'
+}
+
+item {
+    id: 42
+    name: 'shs'
+}
+
+item {
+    id: 43
+    name: 'h'
+}
+
+item {
+    id: 44
+    name: 'ŗ'
+}
+
+item {
+    id: 45
+    name: 'onh'
+}
+
+item {
+    id: 46
+    name: 'bishorgo'
 }
